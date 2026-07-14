@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Consentinel
+# 🛡️ ConSentinel
 
 ### The safeguard auditor for MCP servers
 
